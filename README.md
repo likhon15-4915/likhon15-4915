@@ -24,6 +24,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likhon15-4915&" alt="likhon15-4915" /></p>
 
 ## Files in Alphabetical Order
-- [File A](file-a.md)
-- [File B](file-b.md)
+- [File A](IDS.md)
+- [File B](URL-Detection.md)
 - [File C](file-c.md)
