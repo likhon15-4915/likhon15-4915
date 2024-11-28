@@ -22,20 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likhon15-4915&show_icons=true&locale=en" alt="likhon15-4915" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likhon15-4915&" alt="likhon15-4915" /></p>
-git status --short | sort
-import requests
-
-def fetch_repo_contents(owner, repo):
-    url = f"https://api.github.com/repos/{owner}/{repo}/contents"
-    response = requests.get(url)
-    if response.status_code == 200:
-        contents = response.json()
-        sorted_contents = sorted(contents, key=lambda x: x['name'])
-        for item in sorted_contents:
-            print(f"{'[DIR]' if item['type'] == 'dir' else '[FILE]'} {item['name']}")
-    else:
-        print("Failed to fetch repository contents:", response.status_code)
-
-# Replace 'owner' and 'repo' with the GitHub username and repository name
-fetch_repo_contents("owner", "repo")
 
