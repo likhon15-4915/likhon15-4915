@@ -22,3 +22,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=likhon15-4915&show_icons=true&locale=en" alt="likhon15-4915" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=likhon15-4915&" alt="likhon15-4915" /></p>
+
+if [[ "$(ls -1 | sort)" != "$(ls -1)" ]]; then
+  echo "Files are not sorted alphabetically!"
+  exit 1
+fi
+
+
+
