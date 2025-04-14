@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Raisul Likhon</h1>
-<h3 align="center">Student,Dept of CSE, DIU</h3>
+<h1 align="center">This Raisul Likhon</h1>
+<h3 align="center">An enthusiastic computer science student at Daffodil International University, exploring the fields of information and communication technology. 
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhon15-4915&label=Profile%20views&color=0e75b6&style=flat" alt="likhon15-4915" /> </p>
 
