@@ -1,6 +1,6 @@
-<h1 align="center">This is Raisul Likhon</h1>
-<h3 align="center">An enthusiastic computer science student at Daffodil International University (DIU), exploring the fields of information and communication technology. 
-</h3>
+<h1 align="center">Raisul Kabir Khan Likhon</h1>
+<h3 align="center">An enthusiastic computer science student at Daffodil International University (DIU)</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhon15-4915&label=Profile%20views&color=0e75b6&style=flat" alt="likhon15-4915" /> </p>
 
