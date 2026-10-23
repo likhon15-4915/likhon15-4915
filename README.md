@@ -1,4 +1,4 @@
-<h1 align="center">Raisul Kabir Khan Likhon</h1>
+<h1 align="center">Raisul Kabir Khan</h1>
 <h3 align="center">An enthusiastic Computer Science student at Daffodil International University (DIU)</h3>
 
 
